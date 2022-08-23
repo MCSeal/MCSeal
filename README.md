@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on React-Native, React applications.
 
-- 🌱 I’m currently learning Drupal, Wordpress, Typescript and Tailwind.
+- 🌱 I’m currently learning PHP, bootstrap and Tailwind.
 
 - 👯 I’m looking to collaborate on Projects, or anything interesting.
 
