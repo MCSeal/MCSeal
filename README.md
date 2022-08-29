@@ -13,7 +13,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on React-Native, React applications.
+- 🔭 I’m currently working on PHP, React applications.
 
 - 🌱 I’m currently learning PHP, bootstrap and Tailwind.
 
