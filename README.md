@@ -5,7 +5,7 @@
 </p>
 <div size='20px'> Hi! My name is Mathew Seal. Thank You for taking the time to view my GitHub Profile :smile: 
   
-  <a href = 'https://www.mathewseal.com/'>Check out my website.</a> 
+  <a href = 'https://www.mathewseal.com/'target="_blank">Check out my website.</a> 
 </div>
 
 <h2> About Me </h2>
