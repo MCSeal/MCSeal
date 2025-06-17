@@ -1,4 +1,4 @@
-<h1> Hello Fellow < Developers/ >!  </h1>
+<h1> Hello!  </h1>
 <p align='center'>
 
 
@@ -13,9 +13,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on PHP, React applications.
+- 🔭 I’m currently working on Java, React applications.
 
-- 🌱 I’m currently learning PHP, bootstrap and Tailwind.
+- 🌱 I’m currently learning Java.
 
 - 👯 I’m looking to collaborate on Projects, or anything interesting.
 
@@ -37,10 +37,6 @@
 <a href = 'https://www.github.com/MCSeal'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
-
-<h2> My GitHub Stats  </h2>
-
-![Metrics](https://metrics.lecoq.io/MCSeal?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
 <h2> Some Programming Humor for you ></h2>
 
